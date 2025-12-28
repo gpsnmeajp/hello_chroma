@@ -1,0 +1,8 @@
+uv add fastapi uvicorn fugashi pydantic sentence-transformers sentencepiece unidic-lite
+uv run main.py
+
+
+
+https://hachu.net/ai/250205/dify-jp-1-embed.html
+https://qiita.com/ak-sakatoku/items/d5dad51dfee82aa8b22e
+
